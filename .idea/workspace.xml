@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dfaf512-5073-445e-a744-a258a99a4e42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/AppInOut/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/AppInOut/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloWorld/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloWorld/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/demoo/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/demoo/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/loop/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/18.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/AppInOut.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/AppInOut（1）.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/AppInOut（2）.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/HelloJavaApp.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/MathGiveAtry.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/hello.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/loopy.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/loopy（1）.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/loopy（2）.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2163142966.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2380175872.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3151632165.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3584289857.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3996102163.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/HelloWorld/2018/9/36/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/HelloWorld/2018/9/36/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.mylyn.tasks.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Frecommenders%2Ffeeds%2Fide.rss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.cheatsheets/history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.cheatsheets/org.eclipse.jdt.helloworld.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/caches/manual-mappings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.frq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.nrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.prx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.tii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_3.tis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppInOut/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppInOut/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppInOut/bin/AppInOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppInOut/bin/FrameInOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppInOut/src/AppInOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/AppInOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/FrameInOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/HelloJavaApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/java.policy.applet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/loopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/AppInOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/HelloJavaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/loopy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoo/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoo/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoo/bin/MathGiveAtry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoo/bin/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoo/src/MathGiveAtry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoo/src/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/bin/loop/LOOPY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/bin/loopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/src/loop/LOOPY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/src/loopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Applet/A_try.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Applet/Applet_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/HOMEWORK/TextArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/HOMEWORK/TextString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/HOMEWORK/UpperAndLower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Second/NinePlus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Applet/A_try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Applet/Applet_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK/TextArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK/TextString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK/UpperAndLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Second/NinePlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="811728122">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2851" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2851" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="classpath" value="3" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="20" />
+          <entry key="kt" value="1" />
+          <entry key="project" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="Eclipse" value="5" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="Kotlin" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unknown">
+      <favorite_root url="file://$PROJECT_DIR$/src/Applet_1.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="Applet_1" module="workspace" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Applet/A_try.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Applet/Applet_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Second/NinePlus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOMEWORK/TextArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOMEWORK/TextString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOMEWORK/UpperAndLower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelloWorld/src/loopy.kt" />
+        <option value="$PROJECT_DIR$/src/Applet_1.java" />
+        <option value="$PROJECT_DIR$/src/Applet/Applet_1.java" />
+        <option value="$PROJECT_DIR$/src/Again_try.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Applet/Again_try.java" />
+        <option value="$PROJECT_DIR$/src/Applet/A_try.java" />
+        <option value="$PROJECT_DIR$/src/Second/Again_try.java" />
+        <option value="$PROJECT_DIR$/src/Second/NinePlus.java" />
+        <option value="$PROJECT_DIR$/src/HOMEWORK/TextArray.java" />
+        <option value="$PROJECT_DIR$/src/HOMEWORK/TextString.java" />
+        <option value="$PROJECT_DIR$/src/HOMEWORK/UpperAndLower.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="workspace" type="58d84e3e:PackageViewProjectNode" />
+              <item name="workspace" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="AppInOut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537926286803" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UpperAndLower">
+    <configuration name="Again_try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second.Again_try" />
+      <module name="workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="workspace" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NinePlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second.NinePlus" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HOMEWORK.TextArray" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HOMEWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HOMEWORK.TextString" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HOMEWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperAndLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HOMEWORK.UpperAndLower" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HOMEWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Again_try" />
+      <item itemvalue="Application.NinePlus" />
+      <item itemvalue="Application.TextArray" />
+      <item itemvalue="Application.TextString" />
+      <item itemvalue="Application.UpperAndLower" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UpperAndLower" />
+        <item itemvalue="Application.TextString" />
+        <item itemvalue="Application.TextArray" />
+        <item itemvalue="Application.NinePlus" />
+        <item itemvalue="Application.Again_try" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dfaf512-5073-445e-a744-a258a99a4e42" name="Default Changelist" comment="" />
+      <created>1536155971495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536155971495</updated>
+      <workItem from="1536155975537" duration="263000" />
+      <workItem from="1536995898217" duration="2071000" />
+      <workItem from="1536998343064" duration="219000" />
+      <workItem from="1536998892982" duration="215000" />
+      <workItem from="1537317565352" duration="4214000" />
+      <workItem from="1537517531176" duration="1833000" />
+      <workItem from="1537599396551" duration="23000" />
+      <workItem from="1537599525861" duration="1377000" />
+      <workItem from="1537601967516" duration="6845000" />
+      <workItem from="1537700421887" duration="1485000" />
+      <workItem from="1537926196902" duration="393000" />
+      <workItem from="1538811736671" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19175000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16895716" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23445825" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HelloWorld/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoo/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop/bin/loopy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoo/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop/bin/loop/LOOPY.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/workspace/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/workspace/Applet_1.class" />
+    <entry file="file://$PROJECT_DIR$/AppInOut/bin/AppInOut.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppInOut/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppInOut/src/AppInOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/loopy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/HelloJavaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Second/Again_try.java" />
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORK/TextString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORK/UpperAndLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Second/NinePlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORK/TextArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Applet/Applet_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Applet/A_try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
